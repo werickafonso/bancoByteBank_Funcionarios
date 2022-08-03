@@ -1,0 +1,15 @@
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.csproj.AssemblyReference.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.AssemblyInfoInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.AssemblyInfo.cs
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.csproj.CoreCompileInputs.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\bin\Debug\net6.0\ByteBankF.exe
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\bin\Debug\net6.0\ByteBankF.deps.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\bin\Debug\net6.0\ByteBankF.runtimeconfig.json
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\bin\Debug\net6.0\ByteBankF.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\bin\Debug\net6.0\ByteBankF.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\refint\ByteBankF.dll
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.pdb
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ByteBankF.genruntimeconfig.cache
+C:\Users\Z0045EYV\Desktop\WERICK_PROJETOS_CURRICULO\Alura\ByteBankF\obj\Debug\net6.0\ref\ByteBankF.dll
